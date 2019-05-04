@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CLICKMEMORYREACTGAME/static/css/main.53ec1332.chunk.css",
-    "main.js": "/CLICKMEMORYREACTGAME/static/js/main.dc2897c8.chunk.js",
-    "main.js.map": "/CLICKMEMORYREACTGAME/static/js/main.dc2897c8.chunk.js.map",
+    "main.js": "/CLICKMEMORYREACTGAME/static/js/main.2d4ad8f8.chunk.js",
+    "main.js.map": "/CLICKMEMORYREACTGAME/static/js/main.2d4ad8f8.chunk.js.map",
     "runtime~main.js": "/CLICKMEMORYREACTGAME/static/js/runtime~main.2dcfe83e.js",
     "runtime~main.js.map": "/CLICKMEMORYREACTGAME/static/js/runtime~main.2dcfe83e.js.map",
     "static/js/2.41943120.chunk.js": "/CLICKMEMORYREACTGAME/static/js/2.41943120.chunk.js",
     "static/js/2.41943120.chunk.js.map": "/CLICKMEMORYREACTGAME/static/js/2.41943120.chunk.js.map",
     "index.html": "/CLICKMEMORYREACTGAME/index.html",
-    "precache-manifest.0c61c5a4077d6107d21bcbbba85a4bb3.js": "/CLICKMEMORYREACTGAME/precache-manifest.0c61c5a4077d6107d21bcbbba85a4bb3.js",
+    "precache-manifest.c7e79c26c2861e6f65aaacb2cdba8782.js": "/CLICKMEMORYREACTGAME/precache-manifest.c7e79c26c2861e6f65aaacb2cdba8782.js",
     "service-worker.js": "/CLICKMEMORYREACTGAME/service-worker.js",
     "static/css/main.53ec1332.chunk.css.map": "/CLICKMEMORYREACTGAME/static/css/main.53ec1332.chunk.css.map"
   }
