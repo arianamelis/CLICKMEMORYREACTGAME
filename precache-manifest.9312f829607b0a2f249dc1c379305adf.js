@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f13b83f75bb433a4f706e2789237749",
+    "revision": "7c01f8b0515bcbd34295c7a0e2b68da9",
     "url": "/CLICKMEMORYREACTGAME/index.html"
   },
   {
-    "revision": "e00b5b2a32936d624414",
+    "revision": "b210216e4693af2964a6",
     "url": "/CLICKMEMORYREACTGAME/static/css/main.53ec1332.chunk.css"
   },
   {
-    "revision": "6a83ef1da99dbc0ae5c7",
-    "url": "/CLICKMEMORYREACTGAME/static/js/2.41943120.chunk.js"
+    "revision": "08f38146243a8cb25485",
+    "url": "/CLICKMEMORYREACTGAME/static/js/2.a474aea2.chunk.js"
   },
   {
-    "revision": "e00b5b2a32936d624414",
-    "url": "/CLICKMEMORYREACTGAME/static/js/main.2d4ad8f8.chunk.js"
+    "revision": "b210216e4693af2964a6",
+    "url": "/CLICKMEMORYREACTGAME/static/js/main.0385511f.chunk.js"
   },
   {
     "revision": "df76424df0c663465614",
